@@ -1,0 +1,19 @@
+{
+	"token" : "5Pdw82Xqs6kzSZf2p472LbKb4FqegtQkgoaXCnE4URfa",
+	"symbol" : "ENFT",
+	"period" : 86400,
+	"schedule" : [
+		{"time" : "2022-02-08 15:30:00", "amount": 12},
+		{"time" : "2022-02-09 15:40:00", "amount": 7},
+		{"time" : "2022-02-10 15:50:00", "amount": 6},
+		{"time" : "2022-02-11 16:00:00", "amount": 6},
+		{"time" : "2022-02-12 16:10:00", "amount": 3},
+		{"time" : "2022-02-13 16:20:00", "amount": 3},
+		{"time" : "2022-02-14 16:30:00", "amount": 3},
+		{"time" : "2022-02-15 16:40:00", "amount": 3},
+		{"time" : "2022-02-16 16:50:00", "amount": 3}
+	]
+}
+
+// 2pUVo4mVSnebLyLmMTHgPRNbk7rgZki77bsYgbsuuQX9585N4aKNXWJRpyc98qnpgRKRH2hzB8VVnqeffurW39F4
+// 7GvViT5kP4RWxYqxByGSenhafBkLo1qFieT2xAq5La2q

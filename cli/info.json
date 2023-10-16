@@ -1,0 +1,16 @@
+{
+	"token" : "BMbc3JA435uuigvEtwDvcicXJcozXsLDziVuB7JktMgb",
+	"symbol" : "HH",
+	"period" : 604000,
+	"schedule" : [
+		{"time" : "2022-02-04", "amount": 12},
+		{"time" : "2022-02-11", "amount": 7},
+		{"time" : "2022-02-18", "amount": 6},
+		{"time" : "2022-02-25", "amount": 6},
+		{"time" : "2022-03-04", "amount": 3},
+		{"time" : "2022-03-11", "amount": 3},
+		{"time" : "2022-03-18", "amount": 3},
+		{"time" : "2022-03-25", "amount": 3},
+		{"time" : "2022-04-01", "amount": 3}
+	]
+}
